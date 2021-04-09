@@ -1,0 +1,53 @@
+.tittle {
+    text-align: center;
+    color: coral;
+    
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+  
+  
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.line{
+    color: burlywood;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 80vh;
+}
+
+.left{
+    display: inline;
+   
+    
+}
+
+.right{
+    display: inline;
+ 
+
+}
+
+.card{
+    display: inline;
+}
+
+
